@@ -4,25 +4,48 @@ CSS Layouting - #2 Dimensi & Overflow //(width,heigh) & (mengatur jika keluar da
 CSS Layouting - #3 Box Model - Konsep
 CSS Layouting - #4 Box Model - Margin
 	overlapping margin //mengenai jarak antar item (margin tidak saling menambah jika pertikal(atas bawah) kalau horizontal dia akan bertambah)
-	negatif margin
-	auto
+	negatif margin	//
+	auto		//
 	shorthand // semua, atas bawah, atas kiri & kanan bawah, atas kanan bawah kiri(searah jarum jam)
+
+
 CSS Layouting - #5 Box Model - Padding, Border & Box Sizing
 	box-sizing: border-box;		//membuat ukuran border box tidak bertambah(tidak terpengaruh oleh padding dll).
+
+
 CSS Layouting - #6 Box Model - CSS Reset
 	CSS reset	//meyerweb.com/eric/tools/css/reset/
+
+
 CSS Layouting - #7 Box Model - Membuat Website Sederhana
 	unsplash.com		//tempat download gambar tanpa copyright
 	subtlepatterns.com	//gambar berulang / sebagai gambar belakang
-CSS Layouting - #8 Float
+
+
+CSS Layouting - #8 Float	//membuat item naik 1 dimensi dari ferent-nya
 	nicolasgallagher.com/micro-clearfix-hack/	//membersihkan float
-CSS Layouting - #9 Clear //overflow, div kosong, nicolasgallagher.com/micro-clearfix-hack/   //membersihkan float
+
+
+CSS Layouting - #9 Clear //overflow, div kosong, nicolasgallagher.com/micro-clearfix-hack/   //cara-car membersihkan float
 CSS Layouting - #10 Float - Membuat Website Sederhana (Part 2)
 CSS Layouting - #11 Position - Static & Relative
-	Static // default
-	Relative // maju satu dimensi (tidak mempengaruhi item lain)
+			Static 		// default
+			Relative 	// maju satu dimensi (tidak mempengaruhi item lain)
+
+
 CSS Layouting - #12 Position - Absolute & Fixed
-	Absolute // maju satu dimensi (tempat awalnya di terisi oleh item lain)
-	Fixed // membuat tetap tidak bergerak
+			Absolute 	// maju satu dimensi (tempat awalnya di terisi oleh item lain)
+			Fixed 		// membuat tetap tidak bergerak
+
+
 CSS Layouting - #13 - z-index & penggunaan lain dari position // membuat posisi item paling atas dari item yang lain atau sebaliknya
 CSS Layouting - #14 - Latihan Position
+
+
+
+
+
+
+
+
+
